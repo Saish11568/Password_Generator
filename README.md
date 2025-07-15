@@ -7,11 +7,8 @@ This is a simple Python project that generates strong, random passwords based on
 ## 📌 Features:
 
 Choose desired password length
-
 Option to include/exclude special characters or numbers
-
 Ensures randomness using Python’s random module
-
 Easy to run in terminal / command line
 
 
